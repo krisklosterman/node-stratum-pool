@@ -94,6 +94,7 @@ var myCoin = {
     "nValue": 1024, //optional - defaults to 1024
     "rValue": 1, //optional - defaults to 1
     "txMessages": false, //optional - defaults to false,
+    "coinbase": "MyFunPool", // So explorers can see who mined the block
 
     /* Magic value only required for setting up p2p block notifications. It is found in the daemon
        source code as the pchMessageStart variable.

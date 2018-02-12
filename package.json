@@ -31,7 +31,7 @@
         "async": "^2.5.0",
         "base58-native": "^0.1.4",
         "bignum": "^0.12.5",
-        "multi-hashing": "git://github.com/krisklosterman/node-multi-hashing.git"
+        "multi-hashing": "git://github.com/garlicoin-project/node-multi-hashing.git"
     },
     "engines": {
         "node": ">=0.10"
